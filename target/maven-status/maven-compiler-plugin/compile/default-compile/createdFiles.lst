@@ -1,0 +1,6 @@
+br\mg\rsantos\rest\core\BaseTest.class
+br\mg\rsantos\rest\runner\RunJUnitTest.class
+br\mg\rsantos\rest\core\Constant.class
+br\mg\rsantos\rest\tests\BookCreation.class
+br\mg\rsantos\rest\tests\ObjetosJson.class
+br\mg\rsantos\rest\util\CodyStatus.class
